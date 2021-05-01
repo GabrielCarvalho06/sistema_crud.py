@@ -1,1 +1,1 @@
-Sistema paraaplicação de CRUD em python
+Sistema para aplicação de CRUD em python
